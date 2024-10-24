@@ -1,0 +1,14 @@
+C:\Users\user\Documents\ExerciseEM\bin\Debug\net8.0\ExerciseEM.exe
+C:\Users\user\Documents\ExerciseEM\bin\Debug\net8.0\ExerciseEM.deps.json
+C:\Users\user\Documents\ExerciseEM\bin\Debug\net8.0\ExerciseEM.runtimeconfig.json
+C:\Users\user\Documents\ExerciseEM\bin\Debug\net8.0\ExerciseEM.dll
+C:\Users\user\Documents\ExerciseEM\bin\Debug\net8.0\ExerciseEM.pdb
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.AssemblyInfo.cs
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.dll
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\refint\ExerciseEM.dll
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.pdb
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ExerciseEM.genruntimeconfig.cache
+C:\Users\user\Documents\ExerciseEM\obj\Debug\net8.0\ref\ExerciseEM.dll
